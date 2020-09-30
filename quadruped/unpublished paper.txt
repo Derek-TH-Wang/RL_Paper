@@ -1,0 +1,3 @@
+Effects of Limb Morphology on Transient Locomotion in Quadruped Robots
+Decentralized Coordination Mechanism between Neck and Limbs for Efficient Quadrupedal Walking
+Whole-Body Motion and Landing Force Control for Quadrupedal Stair Climbing
